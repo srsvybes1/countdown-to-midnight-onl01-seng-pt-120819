@@ -14,7 +14,7 @@ def countdown(x)
   y = 10
   while y > 0 
   sleep (1)
-    puts "#{x} SECOND(S)!"
+    puts "#{y} SECOND(S)!"
     
   y -= 1
   if y == 0 
